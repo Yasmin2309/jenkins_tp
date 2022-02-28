@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jenkins_tp.iml" filepath="$PROJECT_DIR$/.idea/modules/jenkins_tp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jenkins_tp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jenkins_tp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jenkins_tp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jenkins_tp.test.iml" />
+    </modules>
+  </component>
+</project>
